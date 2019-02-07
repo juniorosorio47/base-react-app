@@ -1,0 +1,5 @@
+/*Estilização do app, é importado pelo app-content e será carregado pelo hot loader*/
+*{
+    margin:0;
+    padding: 0;
+}

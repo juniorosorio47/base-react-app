@@ -1,0 +1,5 @@
+/*Configurações do babel para transformar o código escrito em ES7 e ES8 para ES6*/
+{
+    "presets": ["es2015", "stage-0", "react"],
+    "plugins": ["react-hot-loader/babel"]
+}
